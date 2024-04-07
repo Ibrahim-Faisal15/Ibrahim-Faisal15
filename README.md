@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ibrahim-Faisal15
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning Java
 
 <!---
 Ibrahim-Faisal15/Ibrahim-Faisal15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
