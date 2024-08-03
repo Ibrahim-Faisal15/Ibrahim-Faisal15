@@ -15,11 +15,13 @@ I am an independent full-stack developer who translates ideas into reality using
  <img align="left" alt="SQlalchemy" width="90px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
  <img align="left" alt="Java" width="90px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
  <img  align="left" alt="Tailwind" width="90px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+
+	
           
           
           
-          
-          
+## 🔢Statistics
+[![BeastKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim-Faisal15)](https://github.com/Ibrahim-Faisal15/github-readme-stats)
           
           
           
